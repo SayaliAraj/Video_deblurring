@@ -1,1 +1,2 @@
 # Video_deblurring
+The Attention-Based Video Deblurring project leverages an attention mechanism and advanced neural network architectures to restore blurry frames in videos. The core idea is to utilize optical flow and deformable attention mechanisms for enhanced motion compensation and improved visual clarity. This project applies advanced techniques from optical flow estimation and attention-based modules, achieving state-of-the-art results in video deblurring
